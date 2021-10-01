@@ -1,0 +1,28 @@
+html{background: rgb(238, 235, 216);}
+h1 {color: rgb(39, 18, 66); }
+h2 {color: rgb(13, 74, 102); }
+img {
+    display: flex; 
+    justify-content: flex-end;
+    align-items: flex-start;
+    background: grey;}
+.Info {margin: auto;}
+.parte1 {
+    display: flex; 
+    font-size: 20px;
+    margin: auto;
+    padding: 50px;} 
+#Foto {
+    border: double rgb(13, 116, 13);
+    display: flex; 
+    justify-content: flex-end;
+    align-items: flex-start;
+    background: grey;}
+#Educacion{margin: auto;font-weight: bold;}
+.tit{font-style: italic;
+    color: rgb(9, 121, 69);}
+#Laburo{
+    display: flex; 
+    justify-content: space-around;
+    background: rgb(238, 185, 101);
+}

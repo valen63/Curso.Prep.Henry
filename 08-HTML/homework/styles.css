@@ -10,6 +10,7 @@ img {
     background: lightseagreen;
     padding: 50px;
     border:thick double lawngreen;
+    margin: auto;
 }
 #spanId {
     font-size: 18px;
